@@ -1,3 +1,11 @@
+.text {
+  margin: 10px;
+}
+
+.diarylist {
+  margin: 10px;
+}
+
 .App {
   text-align: center;
 }
