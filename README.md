@@ -1,6 +1,6 @@
 # Minitool
 
-<H2>HTML + JQUERY 로만 만든 게시판을 리액트로 재구성 및 기능추가하기</H1>
+<H2>HTML + JQUERY로 만든 게시판을 리액트로 재구성 및 기능추가하기</H1>
 이전버전: https://github.com/hyunwooDEV/Minitool
 
 <H4>LocalStorage를 활용한 일기장</H4>
